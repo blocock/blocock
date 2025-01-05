@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @blocock
+- 👀 I’m interested in composability and scalability in blockchain ecosystem
+- 🌱 I’m currently learning consensus mechanism
+- 💞️ I’m looking to collaborate on any idea to boost chain-linked eco
+- 📫 How to reach me: amaupin876@gmail.com
